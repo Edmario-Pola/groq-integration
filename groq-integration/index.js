@@ -1,5 +1,6 @@
 import express from "express";
 import 'dotenv/config';
+import Groq from "groq-sdk";
 
 const app = express();
 
